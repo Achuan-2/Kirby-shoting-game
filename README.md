@@ -1,5 +1,5 @@
 # kirby-shooting-game
+
 a shooting  small game based on python
 
-![卡比射击](https://b3logfile.com/siyuan/1610205759005/assets/image-20210704140829-kpkc26v.png)
-
+![20220225103238_2022-02-25](https://cdn.jsdelivr.net/gh/Achuan-2/PicBed@pic/assets/README/20220225103238_2022-02-25.png)
